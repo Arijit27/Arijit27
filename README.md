@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijit27&show_icons=true&locale=en" alt="arijit27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit27&" alt="arijit27" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ariganguly11?theme=unicorn&font=Noto%20Sans%20Imperial%20Aramaic&ext=heatmap)
