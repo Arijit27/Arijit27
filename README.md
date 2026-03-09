@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ganguly.arijit11@gmail.com**
 
-- ⚡ Fun fact **I am a smart guy**
+- ⚡ Fun fact **I am a funny guy**
 
 <p align="left">
 </p>
